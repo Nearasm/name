@@ -1,2 +1,0 @@
-# name
-Ką žinau?
