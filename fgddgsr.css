@@ -1,0 +1,46 @@
+
+body{
+background-image: url('Eurovizija.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+margin-left: 700px;
+}
+
+p{
+font-size: 30px;
+font family: Tahoma;
+}
+
+table, td { border: 3px solid purple}
+div.a{
+font-size: 60px;
+color: rgb(250, 0, 0);
+}
+div.b{
+	position: absolute;
+	left: 725px;
+	top: 123px;
+font-size: 30px;
+color: rgb(250, 0, 0);
+}
+div.c{
+	font-size: 60px;
+color: rgb(250, 0, 0);
+position: absolute;
+	left: 600px;
+	top: 123px;
+}
+div.d{
+	font-size: 60px;
+color: rgb(250, 0, 0);
+position: absolute;
+	left: 0x;
+	top: 0px;
+}
+div.e{
+	font-size: 60px;
+color: rgb(250, 0, 0);
+position: absolute;
+	left: 1500px;
+	top: 0px;
+}
